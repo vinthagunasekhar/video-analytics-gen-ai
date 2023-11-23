@@ -63,5 +63,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you have any questions about the project, feel free to reach out.
 
 Guna Sekhar Vintha - vinthagunasekhar@gmail.com
-Project Link: [https://github.com/vinthagunasekhar/Gen_AI_for_Video_Analytics_with_Vertex_AI](https://github.com/vinthagunasekhar/Gen_AI_for_Video_Analytics_with_Vertex_AI)
 ```
